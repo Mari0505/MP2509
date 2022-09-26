@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="26Set" type="JarApplication">
+    <option name="WORKING_DIRECTORY" value="C:\Users\marie\Documents\TEC\Bloque II\MP2509" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/Downloads/javafx-sdk-19/lib" />
+    <method v="2" />
+  </configuration>
+</component>
